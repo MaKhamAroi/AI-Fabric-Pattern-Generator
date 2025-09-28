@@ -1,3 +1,3 @@
-"AI-Fabric-Pattern-Generator" /n 
-version: 1 /n
+"AI-Fabric-Pattern-Generator"
+version: 1
 สำหรับใช้งานแบบ local โดยใช้ stable diffusion API 
